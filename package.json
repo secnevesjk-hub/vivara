@@ -1,0 +1,12 @@
+{
+  "name": "vivara-site",
+  "version": "1.0.0",
+  "description": "Site Vivara com API Duttyfy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
